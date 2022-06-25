@@ -36,7 +36,7 @@
 
 | Theory                         | OOP basics            | Arstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟦 Singleton             |
+| 🟩 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟩 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     | ⬜ Revealing Constructor |
 | 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   |                          |
 | 🟩 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
@@ -69,7 +69,7 @@
 | 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all        |
 | 🟩 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟩 Promise.allSettled |
 | 🟩 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟩 Promise.race       |
-| 🟦 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟩 Promise.any        |
+| 🟩 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟩 Promise.any        |
 | 🟩 EventEmitter        | 🟦 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API      |
 | ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool         |
 | ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟦 libuv            | ⬜ Thread Pool        |
