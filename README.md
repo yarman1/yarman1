@@ -1,6 +1,6 @@
 ![image](https://www.codewars.com/users/yarman1/badges/large)
 
-<code>🎓 Student: KPI / IM-13</code>
+<code>🎓 Student: KPI / IP-15 (former IM-13)</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
