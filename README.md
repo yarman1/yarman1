@@ -1,4 +1,3 @@
-![image](https://www.codewars.com/users/yarman1/badges/large)
 
 <code>🎓 Student: KPI / IP-15</code>
 <code>⚪ Community: Metarhia</code>
