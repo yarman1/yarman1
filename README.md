@@ -1,5 +1,5 @@
 
-<code>🎓 Student: KPI / IP-15</code>
+<code>🎓 Student: KPI / IP-52mp</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
